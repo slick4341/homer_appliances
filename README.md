@@ -1,1 +1,1 @@
-# homer_appliances
+# Homer Appliances
