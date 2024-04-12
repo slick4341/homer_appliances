@@ -37,6 +37,11 @@ export const brandsMenu = [
         label: "Panasonic",
         checked: false,
     },
+    {
+        id: 4,
+        label: "Usha",
+        checked: false,
+    },
 ];
 
 export const categoryMenu = [
@@ -58,6 +63,16 @@ export const categoryMenu = [
     {
         id: 4,
         label: "Coolers",
+        checked: false,
+    },
+    {
+        id: 5,
+        label: "Television",
+        checked: false,
+    },
+    {
+        id: 6,
+        label: "Kitchen",
         checked: false,
     },
 ];

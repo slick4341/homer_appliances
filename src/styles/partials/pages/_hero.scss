@@ -39,11 +39,18 @@
     }
 
     &.hero_slide-1::before {
-        content: "Chill n' Fresh";
+        content: "Chill  n' Fresh";
     }
 
     &.hero_slide-2::before {
         content: "Wash n' Clean";
+    }
+
+    &.hero_slide-3::before {
+        content: "Cook n' Feast";
+    }
+    &.hero_slide-4::before {
+        content: "Watch n' Stream";
     }
 
     @include devices(lg) {
